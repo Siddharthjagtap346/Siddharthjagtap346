@@ -16,12 +16,12 @@
 ### SubSentry
 
 Improved subscription backend by adding billing-cycle normalization and yearly/monthly spend aggregation.
-🔗 https://github.com/SubSentry
+🔗 https://github.com/opencodeiiita/Subsentry
 
 ### Loktantra
 
 Configured Hardhat deployment environment and deployed Ethereum smart contracts to Sepolia testnet.
-🔗 https://github.com/Loktantra
+🔗 https://github.com/opencodeiiita/Loktantra
 
 ---
 
@@ -37,28 +37,28 @@ Autonomous cross-chain DeFi risk enforcement engine built during Chainlink Conve
 ### 🔗 Dravik
 
 On-chain IP licensing engine using Story Protocol with tokenized licensing and automated validation.
-🔗 https://github.com/Dravik-On-Chain-Asset-Forge-github
+🔗 [https://github.com/Siddharthjagtap346/Dravik-On-Chain-Asset-Forge-github](https://github.com/Siddharthjagtap346/Dravik-On-Chain-Digital-Asset-Forge)
 
 ---
 
 ### 🍔 BiteRight
 
 Full-stack restaurant ordering platform with admin dashboard and order management.
-🔗 https://github.com/Bite-Right-food-ordering-website
+🔗 https://github.com/Siddharthjagtap346/Bite-Right-food-ordering-website
 
 ---
 
 ### 📝 QuickNotes
 
 Dockerized MERN stack notes application with CRUD functionality.
-🔗 https://github.com/QuickNotes
+🔗 https://github.com/Siddharthjagtap346/QuickNotes
 
 ---
 
 ### 💰 VetRelief
 
 Blockchain donation platform enabling transparent and tamper-proof charity transactions.
-🔗 https://github.com/VetRelief
+🔗 https://github.com/Siddharthjagtap346/VetRelief
 
 ---
 
@@ -81,3 +81,22 @@ Blockchain donation platform enabling transparent and tamper-proof charity trans
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthjagtap346&layout=compact&theme=tokyonight" />
 
 </p>
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=gmail" height="22"/>  <b>Email:</b> <a href="mailto:siddharthjagtap5091@gmail.com">siddharthjagtap5091@gmail.com</a>
+
+
+<img src="https://skillicons.dev/icons?i=linkedin" height="22"/>  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/siddharth-jagtap-2a137831a">https://www.linkedin.com/in/siddharth-jagtap-2a137831a</a>
+
+
+<img src="https://skillicons.dev/icons?i=github" height="22"/>  <b>GitHub:</b> <a href="https://github.com/Siddharthjagtap346">https://github.com/Siddharthjagtap346</a>
+
+</p>
+
+<p align="center">
+Open to collaborations, open-source projects, and interesting engineering discussions.
+</p>
+
