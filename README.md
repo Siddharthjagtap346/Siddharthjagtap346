@@ -45,6 +45,7 @@ Quantized Transformer for efficient prediction systems and edge-AI deployment.
 
 • Autonomous cross-chain DeFi risk enforcement engine built during Chainlink Convergence Hackathon.
 • Built automated workflows and data pipelines integrating multiple on-chain data sources
+
 🔗 https://github.com/Siddharthjagtap346/SentinelX-Hackathon
 
 ---
