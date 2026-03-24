@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Siddharth Jagtap</h1>
 
 <p align="center">
-  <b>Full-Stack Developer • MERN Stack • Web3 / Blockchain Builder</b>
+  <b>Full-Stack Developer • Web3 / Blockchain Builder • AI Systems</b>
 </p>
 
 <p align="center">
   I’m a software developer passionate about building scalable web applications, decentralized systems, and developer infrastructure.<br>
-  I enjoy turning complex ideas into working products — from <b>full-stack platforms</b> to <b>smart-contract powered systems</b>.
+  I enjoy turning complex ideas into working products — from <b>full-stack platforms</b> to <b>smart-contract powered systems and <b>efficient transformer-based AI models</b>.
 </p>
 
 ---
@@ -43,7 +43,8 @@ Quantized Transformer for efficient prediction systems and edge-AI deployment.
 
 ### 🛡 SentinelX
 
-Autonomous cross-chain DeFi risk enforcement engine built during Chainlink Convergence Hackathon.
+• Autonomous cross-chain DeFi risk enforcement engine built during Chainlink Convergence Hackathon.
+• Built automated workflows and data pipelines integrating multiple on-chain data sources
 🔗 https://github.com/Siddharthjagtap346/SentinelX-Hackathon
 
 ---
@@ -64,7 +65,8 @@ Full-stack restaurant ordering platform with admin dashboard and order managemen
 
 ### 📝 QuickNotes
 
-Dockerized MERN stack notes application with CRUD functionality.
+• Dockerized MERN stack notes application with CRUD functionality.
+• Designed REST APIs and backend services using Docker-based microservices architecture
 🔗 https://github.com/Siddharthjagtap346/QuickNotes
 
 ---
