@@ -27,6 +27,20 @@ Configured Hardhat deployment environment and deployed Ethereum smart contracts 
 
 ## 🚀 Projects
 
+### 🧠 BitNet-1 (Featured)
+
+Quantized Transformer for efficient prediction systems and edge-AI deployment.
+
+🔗 https://github.com/Siddharthjagtap346/bitnet-1-quantized-transformer
+
+• Built a BitNet-inspired <b>1-bit Transformer</b> using quantization-aware training (QAT)  
+• Reduced compute and memory usage significantly for <b>efficient inference</b>  
+• Designed multi-task prediction system (function, domains, localization, GO terms)  
+• Developed FastAPI-based inference dashboard with real-time predictions  
+• Explored <b>efficient AI architectures for low-power / edge environments</b>  
+
+---
+
 ### 🛡 SentinelX
 
 Autonomous cross-chain DeFi risk enforcement engine built during Chainlink Convergence Hackathon.
